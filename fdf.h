@@ -13,7 +13,7 @@
 #ifndef FDF_H
 
 # define FDF_H
-# include <mlx.h>
+# include "minilibx_macos/mlx.h"
 # include <stdlib.h>
 # include <fcntl.h>
 # include <math.h>
